@@ -11,6 +11,7 @@ namespace EerstPush
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Word");
+            Console.WriteLine("Vandaad starten wij met windows app");
             Console.ReadLine();
         }
     }
